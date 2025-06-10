@@ -1,3 +1,3 @@
 FROM nginx
-COPY index.html
+COPY index.html /assets/img /saddy
 EXPOSE 8082
